@@ -1,16 +1,27 @@
 ### Hi there 👋
+Welcome to tuvudu's home 🏡
+I'm a Frontend develeper 👨‍💻. 🔭 I’m currently working on Bunbu Co.ltd,
+I'm here to resolve the world's problem with you
 
-<!--
-**tuvudu/tuvudu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ My skill:
+  + ReactJS.
+  + ReactNative.
+  + NodeJS.
+  + Ruby On Rails.
+  + GraphQL.
+  + Apollo Client.
+  
+### 👨‍🎓 Education:
+- I graduated from Ha Noi University of industry with GPA: 3.23.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☎️ Contact me:
+
+- 💬 Ask me about:
+  https://www.messenger.com/t/tuvudu
+  
+- 📖 Reading book with me:
+  https://www.goodreads.com/review/list/79587147-vu-duc-tuyen?shelf=read
+  
+- ✍️ My coding articles:
+  https://viblo.asia/u/vuductuyen
