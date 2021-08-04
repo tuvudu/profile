@@ -6,11 +6,16 @@ I'm here to resolve the world's problem with you
 
 ### ⚡ Languages and tools:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="html" width="22px" src="https://raw.githubusercontent.com/tuvudu/profile/main/imgs/html.png"/>][html]
+[<img align="left" alt="css" width="22px" src="https://raw.githubusercontent.com/tuvudu/profile/main/imgs/css.svg"/>][css]
+[<img align="left" alt="js" width="22px" src="https://raw.githubusercontent.com/tuvudu/profile/main/imgs/js.png"/>][js]
+[<img align="left" alt="sass" width="22px" src="https://raw.githubusercontent.com/tuvudu/profile/main/imgs/sass.png"/>][sass]
+[<img align="left" alt="react" width="22px" src="https://raw.githubusercontent.com/tuvudu/profile/main/imgs/react.png"/>][react]
+[<img align="left" alt="redux" width="22px" src="https://raw.githubusercontent.com/tuvudu/profile/main/imgs/redux.png"/>][redux]
+[<img align="left" alt="graphql" width="22px" src="https://raw.githubusercontent.com/tuvudu/profile/main/imgs/graphql.png"/>][graphql]
+[<img align="left" alt="apollo" width="22px" src="https://raw.githubusercontent.com/tuvudu/profile/main/imgs/apollo.svg"/>][apollo]
+[<img align="left" alt="nodejs" width="22px" src="https://raw.githubusercontent.com/tuvudu/profile/main/imgs/nodejs.png"/>][nodejs]
+[<img align="left" alt="git" width="22px" src="https://raw.githubusercontent.com/tuvudu/profile/main/imgs/git.png"/>][git]
 
 ### 👨‍🎓 Education:
 
