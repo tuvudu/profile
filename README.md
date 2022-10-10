@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Welcome to tuvudu's home 🏡
-I'm a Frontend develeper 👨‍💻. 🔭 I’m currently working on Bunbu Co.ltd,
+I'm a Frontend develeper 👨‍💻. 🔭 I’m currently working on Kyber Network,
 I'm here to resolve the world's problem with you
 
 ### ⚡ Languages and tools:
